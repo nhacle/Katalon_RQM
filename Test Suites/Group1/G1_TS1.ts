@@ -4,7 +4,11 @@
    <name>G1_TS1</name>
    <tag></tag>
    <isRerun>false</isRerun>
+<<<<<<< HEAD
    <lastRun>2018-09-18T16:56:12</lastRun>
+=======
+   <lastRun>2018-09-18T16:51:21</lastRun>
+>>>>>>> branch 'Test' of https://github.com/nhacle/Katalon_RQM.git
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
